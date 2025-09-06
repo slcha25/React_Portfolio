@@ -289,7 +289,7 @@ body.darkMode .container_picture {
 .intro {
   margin: 10; /* Remove default margin */
   padding: 0 15px; /* Add horizontal padding for better readability */
-  font-size: 20px; /* Set font size */
+  font-size: 18px; /* Set font size */
   color: grey; /* Text color */
   line-height: 1.6; /* Line height for better readability */
   text-align: justify; /* Justify text alignment */
@@ -945,10 +945,10 @@ body.darkMode .contact-container label {
   margin-bottom: 5px;
   align-items: center;
   justify-self: center;
-  margin-right: 220px; /* Adjusted margin for better alignment */
+  margin-right: 180px; /* Adjusted margin for better alignment */
 }
 .contact-right hr{
-  margin-right: 250px; /* Adjusted margin for better alignment */
+  margin-right: 220px; /* Adjusted margin for better alignment */
 }
 .contact-container h4{
   margin-right: 100px; /* Adjusted margin for better alignment */
@@ -957,14 +957,14 @@ body.darkMode .contact-container label {
   margin-right: 105px;
   margin-left: 300px; /* Adjusted margin for better alignment */;
   margin-top: -10px; /* Adjusted margin for better alignment */
-  font-size: 18px;
+  font-size: 16px;
 }
 .contact-container h3{
   font-weight: 600;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
-  margin-right: 200px; /* Adjusted margin for better alignment */
+  margin-right: 180px; /* Adjusted margin for better alignment */
   margin-top: 15px;
 }
 .contact-text{
@@ -976,7 +976,7 @@ height: 50px;
 transition: transform 0.3s ease, opacity 0.3s ease;
 background: transparent;
 cursor: pointer;
-margin-right: 270px; /* Adjusted margin for better alignment */
+margin-right: 230px; /* Adjusted margin for better alignment */
 
 }
 .contact-right img:hover {
@@ -988,7 +988,7 @@ opacity: 0.8;
   flex-direction: column;
 }
 .reserved_right{
-  font-size: 18px;
+  font-size: 16px;
   font-style: italic;
   color: orange
 }
