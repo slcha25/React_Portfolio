@@ -67,4 +67,4 @@ To run this portfolio locally on your machine:
 - [GitHub](https://github.com/slcha25)
 
 ## 👩‍💻 Developer Notes
-This portfolio was developed as a project for the nPower Full Stack Developer program. It demonstrates proficiency in front-end fundamentals, responsive design principles, and interactive JavaScript.
+This portfolio was developed as a project for the nPower Full Stack Developer program. It demonstrates proficiency in front-end fundamentals, responsive design principles, and interactive React.
