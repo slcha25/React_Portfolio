@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Sandra Chan - React Portfolio
-A responsive, modern, and accessible personal portfolio website built with react and tailwind. It Showcare my skills, projects and provide my contact. 
+A responsive, modern, and accessible personal portfolio website built with react and tailwind. It Shows my skills, projects and provide my contact. 
 
 ## Live Demo:
 [Sandra Chan' React Portfolio](https://sok-l-chan-reactportfolio.onrender.com/)
